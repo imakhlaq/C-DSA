@@ -14,4 +14,5 @@ int main(){
 
        cout<<n<<" is odd number"; 
     }
+    return 0;
 }

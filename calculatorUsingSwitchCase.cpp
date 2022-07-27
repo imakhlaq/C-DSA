@@ -37,7 +37,7 @@ int main(){
             cout<<"Invaild Input";
         }
     } 
-
+return 0;
 
 
 }

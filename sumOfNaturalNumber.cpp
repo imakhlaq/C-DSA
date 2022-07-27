@@ -8,5 +8,6 @@ int a;
     int sum=a*(a+1)/2;
 
 cout<<sum;
+return 0;
 
 }
