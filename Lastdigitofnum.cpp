@@ -4,9 +4,9 @@ using namespace std;
 int main(){
 
     int a;
-    cout<<"enter a number";
+    cout<<"enter a number: "<<endl;
     cin>>a;
-    a=a%10;
+    a= static_cast<unsigned int> (a)%10;
     cout<<a;
     return 0;
 
