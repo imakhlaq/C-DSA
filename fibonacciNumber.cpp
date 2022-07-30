@@ -15,7 +15,6 @@ using namespace std;
 
         c=a+b;
         cout<<c<<" ";
-        int temp;
         a=b;
         b=c;
         
