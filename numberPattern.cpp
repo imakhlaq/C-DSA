@@ -4,7 +4,7 @@ using namespace std;
 
 
      int main(){
-    int n=6;
+    int n=9;
 
 
     // for(int row=1;row<=n;row++){
@@ -228,7 +228,66 @@ using namespace std;
      //      }
      //      cout<<endl;
      //   }
+     
+//              *
+//            *   *
+//          *       *
+//        *           *
+//      *               *
+//    * * * * * * * * * * *
 
+     // for(int row=1;row<=n;row++){
+     //      for( int i=0;i<=n-row;i++){
+     //           cout<<"  ";
+     //      }
+     //      for(int j=1;j<2*row;j++){
+
+     //           if( j==2*row-1 or row==n or j==1){
+     //                     cout<<" *";
+     //           }
+
+     //           else{
+     //                cout<<"  ";
+     //           }
+               
+     //      }
+
+
+     //      cout<<endl;
+     // }
+       
+
+//                    *
+//                  *   *
+//                *       *
+//              *           *
+//            *               *
+//          *                   *
+//        *                       *
+//    * * * * * * * * * * * * * * * * *
+
+     //   for(int row=1;row<=n;row++){
+     //      for(int i=0;i<=n-row;i++){
+     //           cout<<"  ";
+             
+     //      }
+     //      for(int j=1;j<2*row;j++){
+
+     //           if( j==2*row-2 or row==n or j==2){
+     //                     cout<<" *";
+     //           }
+     //               else{
+     //                cout<<"  ";
+     //           }
+                    
+     //      }
+                 
+
+           
+
+
+     //       cout<<endl;
+     //   }
 
      return 0;
      }
