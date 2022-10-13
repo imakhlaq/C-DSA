@@ -11,7 +11,7 @@ int main(){
           cout<<year<<" Leap year";
      }
      else{
-          cout<<year<<" NOT Leap year";
+          cout<<year<<" N0T Leap year";
      }
 return 0;
 }
